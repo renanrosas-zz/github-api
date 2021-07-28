@@ -1,0 +1,10 @@
+.btn-container button {
+    width: 100px;
+    height: 40px;
+}
+
+.btn-container button h6 {
+    margin: auto;
+    color: #fff;
+    font-weight: 400;
+}
